@@ -13,7 +13,7 @@ import java.util.logging.Level;
 
 /**
  *
- * @author Amar
+ * @author Amar Latthe
  */
 public class GenericCSVBuilder {
 
